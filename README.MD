@@ -1,4 +1,4 @@
-# Apresentação de Case Técnico para Quero Bolsa
+# Apresentação do Projeto
 
 ## Situação Problema do Projeto
 
@@ -82,10 +82,6 @@ Para o funcionamento do projeto, você precisara das seguintes tecnologias:
 E veja a mágica acontecer!
 </details>
 <br>
-
-## Finalização
-
-Gostaria de agradecer profundamente a oportunidade por ter avançado mais uma etapa, é de extrema importância para mim poder ter a chance de mostrar meu potencial para trabalhar com vocês <3
 
 ### Feito por Eduardo da Silva Fontes
 
